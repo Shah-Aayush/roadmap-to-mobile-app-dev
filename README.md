@@ -1,4 +1,4 @@
-w# RoadMap To Mobile App development
+# RoadMap To Mobile App development
 
 - what is app development
 - how to start learning
@@ -42,4 +42,5 @@ w# RoadMap To Mobile App development
 	- ### React Native *(Cross Platform)*
 		- [roadmap](https://github.com/hayanisaid/React-Native-developer-roadmap)
 		- [Course on udemy by Maximilian Schwarzmüller](https://www.udemy.com/course/react-native-the-practical-guide/) *(approx 1 month)*
-	
+---
+# THANK YOU
